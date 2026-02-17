@@ -10,17 +10,17 @@ I love exploring new technologies, breaking limits, and creating things that loo
 
 ### 🚀 Currently Using
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,discordjs,github,mint,nodejs,npm,notion,obsidian" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,tailwind" />
 </p>
 
 ### 🧠 Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,idea,bash,linux,cpp,clion,cmake" />
+  <img src="https://skillicons.dev/icons?i=java,python,bash,linux,cpp" />
 </p>
 
 ### 🧩 Next on My List
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,kali,mongodb,php,tailwind,gradle,firebase,ts" />
+  <img src="https://skillicons.dev/icons?i=react,next,mongodb,php,gradle,ts" />
 </p>
 
 ## 📊 GitHub Stats
@@ -62,4 +62,4 @@ I love exploring new technologies, breaking limits, and creating things that loo
 </p>
 -->
 
-✨ *“Code. Create. Repeat.”*
+✨ *“Be yourself, everyone else is taken”*
