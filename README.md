@@ -1,65 +1,32 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=FFD500&center=true&vCenter=true&width=435&lines=Hi+and+welcome+to+my+profile">
-</h1>
+ <div align="center">
 
-## 👾 About Me
-Hey there! I'm **mon3llo**, a passionate developer from Italy.  
-I love exploring new technologies, breaking limits, and creating things that look cool *and* work flawlessly.  
+# 👋 Hi, I'm Thumos
 
-## 💻 Tech Stack
+**Aspiring Developer (Student) | Exploring Software Engineering & Web Development**
+
+*Building projects, learning new technologies, and turning ideas into reality.*
+
+</div>
+
+---
 
 ### 🚀 Currently Using
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,javascript" alt="Currently using technologies" />
 </p>
 
-### 🧠 Learning
+### 📚 Next on My List
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,bash,linux,cpp" />
-</p>
-
-### 🧩 Next on My List
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,mongodb,php,gradle,ts" />
-</p>
-
-## 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mon3llo&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
-</a>
-
-## 🖥️ My Setup
-| Component | Model |
-|------------|--------|
-| **CPU** | AMD Ryzen 5 7600X |
-| **CPU Cooler** | Noctua NH-U12S Chromax Black |
-| **GPU** | ASUS Dual GeForce RTX 4060 OC Edition |
-| **Motherboard** | ASUS TUF Gaming B650-E WiFi |
-| **RAM** | Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz |
-| **Storage (SSD)** | Crucial T500 1TB NVMe M.2 Gen4 |
-| **Extra Storage (SSD/HDD)** | 512GB + 2TB |
-| **PSU** | Corsair RM650e 650W 80+ Gold Fully Modular |
-| **Case** | Corsair Carbide Series 175R RGB |
-| **Operating System** | Windows/Linux |
-
-<!--
-
-## 🧑‍💻 Currently Coding In
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-Android%20Studio-brightgreen?logo=androidstudio&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=typescript,figma,react,tailwind,nodejs,postgresql,mysql,mongodb,redis,java,gradle,maven,linux,bash,docker" alt="Technologies to learn" />
 </p>
 
 ---
 
-<!--
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/flam3yx"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" /></a>
-</p>
--->
+### 📊 GitHub Statistics
 
-✨ *“Be yourself, everyone else is taken”*
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=mon3llo&theme=ayu&border_radius=5&custom_title=Thumos%27+Github+Stats&hide=followers%2Crepos%2Cweek%2Cgrade%2Cissues%2Ctrend%2Cavg%2Cactive_day%2Cprs" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=mon3llo&theme=ayu&custom_title=Top+Languages&layout=vertical_list" alt="Top Languages" />
+</p>
